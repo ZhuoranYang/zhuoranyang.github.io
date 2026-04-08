@@ -11,9 +11,41 @@ nav_order: 6
 
 [//]: # (Organize your courses by years, topics, or universities, however you like!)
 
-#### S&DS 431/631: Optimization and Computation (Fall 2024, Fall 2023, Fall 2022)
+### Lecture Notes
 
-📖 [**Lecture Notes**](https://zhuoranyang.github.io/sds431-notes/){:target="_blank"}
+Open-source lecture notes for my courses at Yale. These are living documents — updated each time the course is offered.
+
+<div class="card-columns">
+<div class="card" style="margin-bottom: 1.5rem;">
+<div class="card-body">
+<h5 class="card-title"><strong>S&DS 685: Reinforcement Learning</strong></h5>
+<p class="card-text">Graduate-level course on theoretical foundations of RL, covering MDPs, planning, exploration, deep RL, AlphaGo, RLHF, and RLVR.</p>
+<a href="https://zhuoranyang.github.io/sds685-notes/" target="_blank" class="btn btn-primary btn-sm">📖 Read Online</a>
+</div>
+</div>
+
+<div class="card" style="margin-bottom: 1.5rem;">
+<div class="card-body">
+<h5 class="card-title"><strong>S&DS 431/631: Optimization and Computation</strong></h5>
+<p class="card-text">Optimization for ML and data science: convex optimization, gradient methods, diffusion models, transformers.</p>
+<a href="https://zhuoranyang.github.io/sds431-notes/" target="_blank" class="btn btn-primary btn-sm">📖 Read Online</a>
+</div>
+</div>
+
+<div class="card" style="margin-bottom: 1.5rem;">
+<div class="card-body">
+<h5 class="card-title"><strong>S&DS 432/632: Advanced Optimization</strong></h5>
+<p class="card-text">Advanced optimization theory and algorithms: duality, interior point methods, proximal methods, mirror descent.</p>
+<a href="https://zhuoranyang.github.io/sds632-notes/" target="_blank" class="btn btn-primary btn-sm">📖 Read Online</a>
+</div>
+</div>
+</div>
+
+---
+
+### Courses
+
+#### S&DS 431/631: Optimization and Computation (Fall 2024, Fall 2023, Fall 2022)
 
 
 **Course Description:**  
@@ -34,8 +66,6 @@ In the 2024 version, we cover materials on the optimization & computation aspect
 
 #### S&DS 432/632: Advanced Optimization Techniques (Spring 2024)
 
-📖 [**Lecture Notes**](https://zhuoranyang.github.io/sds632-notes/){:target="_blank"}
-
 **Course Description:**  
 
 This course delves deep into the fundamental theory and algorithms in optimization with a special emphasis on convex optimization and additional advanced topics. We will explore in depth several optimization methods that are suitable for large-scale problems arising in various applications. These algorithms include gradient methods, proximal methods, mirror descent, Nesterov's accelerated methods, ADMM, quasi-Newton methods, stochastic optimization, variance reduction, extragradient methods, as well as some methods developed for nonconvex settings.
@@ -48,9 +78,6 @@ This course delves deep into the fundamental theory and algorithms in optimizati
 - Deep Learning: Transformer Models and Implicit Layers
 
 #### S&DS 685: Reinforcement Learning and Sequential Decision Making (Spring 2025, Spring 2023)
-
-📖 [**Lecture Notes**](https://zhuoranyang.github.io/sds685-notes/){:target="_blank"}
-
 
 **Course Description:**  
 
