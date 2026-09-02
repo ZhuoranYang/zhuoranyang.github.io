@@ -28,11 +28,14 @@ Open-source lecture notes for my courses at Yale. These are living documents —
   color: var(--global-text-color-light); margin-bottom: .35rem;
 }
 .notes-grid .term .now { color: var(--global-theme-color); font-weight: 600; }
+.notes-grid .card-title { font-size: 1.06rem; line-height: 1.35; margin-bottom: .5rem; }
+.notes-grid .card-text { font-size: .93rem; }
+.notes-grid .btn { white-space: nowrap; }
 </style>
 
 <div class="row notes-grid">
 
-<div class="col-lg-3 col-md-6 mb-4">
+<div class="col-md-6 mb-4">
 <div class="card">
 <div class="card-body">
 <p class="term"><span class="now">Fall 2026 &middot; current</span></p>
@@ -43,7 +46,7 @@ Open-source lecture notes for my courses at Yale. These are living documents —
 </div>
 </div>
 
-<div class="col-lg-3 col-md-6 mb-4">
+<div class="col-md-6 mb-4">
 <div class="card">
 <div class="card-body">
 <p class="term">Spring 2025, 2023</p>
@@ -54,7 +57,7 @@ Open-source lecture notes for my courses at Yale. These are living documents —
 </div>
 </div>
 
-<div class="col-lg-3 col-md-6 mb-4">
+<div class="col-md-6 mb-4">
 <div class="card">
 <div class="card-body">
 <p class="term">Fall 2024, 2023, 2022</p>
@@ -65,7 +68,7 @@ Open-source lecture notes for my courses at Yale. These are living documents —
 </div>
 </div>
 
-<div class="col-lg-3 col-md-6 mb-4">
+<div class="col-md-6 mb-4">
 <div class="card">
 <div class="card-body">
 <p class="term">Spring 2024</p>
