@@ -31,6 +31,8 @@ Open-source lecture notes for my courses at Yale. These are living documents —
 .notes-grid .card-title { font-size: 1.06rem; line-height: 1.35; margin-bottom: .5rem; }
 .notes-grid .card-text { font-size: .93rem; }
 .notes-grid .btn { white-space: nowrap; }
+.course-links { margin: .6rem 0 1.2rem; }
+.course-links .btn { margin-right: .5rem; white-space: nowrap; }
 </style>
 
 <div class="row notes-grid">
@@ -87,8 +89,10 @@ Open-source lecture notes for my courses at Yale. These are living documents —
 
 #### S&DS 265/565: Introductory Machine Learning (Fall 2026)
 
-[**Course website**](https://zhuoranyang.github.io/sds265-fall26/) — calendar, lecture slides, and demo notebooks that run in Google Colab.  
-[**Lecture notes**](https://zhuoranyang.github.io/sds265-notes/) — open-source notes, released chapter by chapter as the term runs.
+<p class="course-links">
+<a href="https://zhuoranyang.github.io/sds265-fall26/" target="_blank" class="btn btn-primary btn-sm">🌐 Course Website</a>
+<a href="https://zhuoranyang.github.io/sds265-notes/" target="_blank" class="btn btn-primary btn-sm">📖 Lecture Notes</a>
+</p>
 
 **Course Description:**
 
