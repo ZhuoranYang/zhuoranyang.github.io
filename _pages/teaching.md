@@ -45,6 +45,30 @@ Open-source lecture notes for my courses at Yale. These are living documents —
 
 ### Courses
 
+#### S&DS 265/565: Introductory Machine Learning (Fall 2026)
+
+[**Course website**](https://zhuoranyang.github.io/sds265-fall26/) — calendar, lecture slides, and demo notebooks that run in Google Colab.  
+[**Lecture notes**](https://zhuoranyang.github.io/sds265-notes/) — open-source notes, released chapter by chapter as the term runs.
+
+**Course Description:**
+
+This course is designed for undergraduates and graduate students who want to understand how modern machine learning works, and to be able to build and evaluate these methods themselves. It is an introductory course: the goal is to introduce the basic ideas of machine learning, and to develop each of them far enough that you can implement it, apply it, and see where it fails.
+
+The course is intended for students in Statistics & Data Science, Computer Science, Engineering, and the quantitative sciences, and is useful to graduate students in Economics, SOM, and the Sciences who expect to use these methods in their own research. It is suitable for undergraduates with the appropriate prerequisites, which are linear algebra, multivariate calculus, probability, and programming experience in Python.
+
+**Topics Covered:**
+
+- Linear regression, regularization, and model selection
+- Classification: generative models, logistic regression, maximum-margin classifiers, trees and ensembles
+- Optimization: gradient descent, its stochastic version, and adaptive methods
+- Neural networks: multilayer perceptrons, training, and convolutional architectures
+- Unsupervised learning: principal components, clustering, latent variables and EM
+- Generative models: autoencoders, variational autoencoders, diffusion, and flow matching
+- Reinforcement learning and policy optimization
+- Language models: transformers, post-training, and agents
+
+Every lecture ships with a demo notebook that reproduces its figures and runs in the browser through Google Colab.
+
 #### S&DS 431/631: Optimization and Computation (Fall 2024, Fall 2023, Fall 2022)
 
 
