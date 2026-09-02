@@ -15,30 +15,67 @@ nav_order: 6
 
 Open-source lecture notes for my courses at Yale. These are living documents — updated each time the course is offered.
 
-<div class="card-columns">
-<div class="card" style="margin-bottom: 1.5rem;">
+<style>
+/* Equal-height cards in a grid that reflows from four across to one, using
+   the theme's own variables so it follows light and dark. */
+.notes-grid .card { height: 100%; transition: transform .15s ease, box-shadow .15s ease; }
+.notes-grid .card:hover { transform: translateY(-2px); box-shadow: 0 4px 14px rgba(0,0,0,.10); }
+.notes-grid .card-body { display: flex; flex-direction: column; }
+.notes-grid .card-text { flex-grow: 1; }
+.notes-grid .btn { align-self: flex-start; margin-top: auto; }
+.notes-grid .term {
+  font-size: .78rem; letter-spacing: .04em; text-transform: uppercase;
+  color: var(--global-text-color-light); margin-bottom: .35rem;
+}
+.notes-grid .term .now { color: var(--global-theme-color); font-weight: 600; }
+</style>
+
+<div class="row notes-grid">
+
+<div class="col-lg-3 col-md-6 mb-4">
+<div class="card">
 <div class="card-body">
+<p class="term"><span class="now">Fall 2026 &middot; current</span></p>
+<h5 class="card-title"><strong>S&DS 265/565: Introductory Machine Learning</strong></h5>
+<p class="card-text">Regression and classification, optimization, neural networks, unsupervised and latent-variable models, diffusion, reinforcement learning, and language models.</p>
+<a href="https://zhuoranyang.github.io/sds265-notes/" target="_blank" class="btn btn-primary btn-sm">📖 Read Online</a>
+</div>
+</div>
+</div>
+
+<div class="col-lg-3 col-md-6 mb-4">
+<div class="card">
+<div class="card-body">
+<p class="term">Spring 2025, 2023</p>
 <h5 class="card-title"><strong>S&DS 685: Reinforcement Learning</strong></h5>
 <p class="card-text">Graduate-level course on theoretical foundations of RL, covering MDPs, planning, exploration, deep RL, AlphaGo, RLHF, and RLVR.</p>
 <a href="https://zhuoranyang.github.io/sds685-notes/" target="_blank" class="btn btn-primary btn-sm">📖 Read Online</a>
 </div>
 </div>
+</div>
 
-<div class="card" style="margin-bottom: 1.5rem;">
+<div class="col-lg-3 col-md-6 mb-4">
+<div class="card">
 <div class="card-body">
+<p class="term">Fall 2024, 2023, 2022</p>
 <h5 class="card-title"><strong>S&DS 431/631: Optimization and Computation</strong></h5>
 <p class="card-text">Optimization for ML and data science: convex optimization, gradient methods, diffusion models, transformers.</p>
 <a href="https://zhuoranyang.github.io/sds431-notes/" target="_blank" class="btn btn-primary btn-sm">📖 Read Online</a>
 </div>
 </div>
+</div>
 
-<div class="card" style="margin-bottom: 1.5rem;">
+<div class="col-lg-3 col-md-6 mb-4">
+<div class="card">
 <div class="card-body">
+<p class="term">Spring 2024</p>
 <h5 class="card-title"><strong>S&DS 432/632: Advanced Optimization</strong></h5>
 <p class="card-text">Advanced optimization theory and algorithms: duality, interior point methods, proximal methods, mirror descent.</p>
 <a href="https://zhuoranyang.github.io/sds632-notes/" target="_blank" class="btn btn-primary btn-sm">📖 Read Online</a>
 </div>
 </div>
+</div>
+
 </div>
 
 ---
