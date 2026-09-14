@@ -92,6 +92,7 @@ Open-source lecture notes for my courses at Yale. These are living documents —
 <p class="course-links">
 <a href="https://zhuoranyang.github.io/sds265-fall26/" target="_blank" class="btn btn-primary btn-sm">🌐 Course Website</a>
 <a href="https://zhuoranyang.github.io/sds265-notes/" target="_blank" class="btn btn-primary btn-sm">📖 Lecture Notes</a>
+<a href="https://github.com/ZhuoranYang/sds265-fall26" target="_blank" class="btn btn-primary btn-sm">💻 Slides &amp; Demos</a>
 </p>
 
 **Course Description:**
@@ -111,7 +112,7 @@ The course is intended for students in Statistics & Data Science, Computer Scien
 - Reinforcement learning and policy optimization
 - Language models: transformers, post-training, and agents
 
-Every lecture ships with a demo notebook that reproduces its figures and runs in the browser through Google Colab.
+Course demos are released as focused, student-facing notebooks that run in the browser through Google Colab. The course website links each notebook with its corresponding slides and reading.
 
 #### S&DS 431/631: Optimization and Computation (Fall 2024, Fall 2023, Fall 2022)
 
@@ -160,5 +161,3 @@ This graduate-level course focuses on the **theoretical and algorithmic foundati
 (c) offline RL (off-policy evaluation, offline policy learning)
 
 (d) further topics (multi-agent RL, partial observability).
-
- 
