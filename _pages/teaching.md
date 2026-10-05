@@ -43,6 +43,7 @@ Open-source lecture notes for my courses at Yale. These are living documents —
 <p class="term"><span class="now">Fall 2026 &middot; current</span></p>
 <h5 class="card-title"><strong>S&DS 265/565: Introductory Machine Learning</strong></h5>
 <p class="card-text">Regression and classification, optimization, neural networks, unsupervised and latent-variable models, diffusion, reinforcement learning, and language models.</p>
+<a href="https://zhuoranyang.github.io/sds265-fall26/#calendar" target="_blank" class="btn btn-primary btn-sm">📓 Demos &amp; Slides</a>
 <a href="https://zhuoranyang.github.io/sds265-notes/" target="_blank" class="btn btn-primary btn-sm">📖 Read Online</a>
 </div>
 </div>
@@ -91,6 +92,7 @@ Open-source lecture notes for my courses at Yale. These are living documents —
 
 <p class="course-links">
 <a href="https://zhuoranyang.github.io/sds265-fall26/" target="_blank" class="btn btn-primary btn-sm">🌐 Course Website</a>
+<a href="https://zhuoranyang.github.io/sds265-fall26/#calendar" target="_blank" class="btn btn-primary btn-sm">📓 Demos &amp; Slides</a>
 <a href="https://zhuoranyang.github.io/sds265-notes/" target="_blank" class="btn btn-primary btn-sm">📖 Lecture Notes</a>
 <a href="https://github.com/ZhuoranYang/sds265-fall26" target="_blank" class="btn btn-primary btn-sm">💻 Slides &amp; Demos</a>
 </p>
