@@ -118,6 +118,8 @@ Course demos are released as focused, student-facing notebooks that run in the b
 
 **Neural network training notebooks:** [Train an MLP on MNIST](https://colab.research.google.com/github/ZhuoranYang/sds265-fall26/blob/main/demos/11-mlp-training/mlp-training.ipynb) · [Build a two-class MLP from scratch](https://colab.research.google.com/github/ZhuoranYang/sds265-fall26/blob/main/demos/11-mlp-training/two-class-mlp.ipynb) · [Techniques for stabilizing training](https://colab.research.google.com/github/ZhuoranYang/sds265-fall26/blob/main/demos/11-mlp-training/stabilizing-deep-networks.ipynb).
 
+**PCA slides:** [Principal Component Analysis and Low-Rank Approximation](https://zhuoranyang.github.io/sds265-fall26/lectures/14-pca-low-rank.pdf).
+
 #### S&DS 431/631: Optimization and Computation (Fall 2024, Fall 2023, Fall 2022)
 
 
