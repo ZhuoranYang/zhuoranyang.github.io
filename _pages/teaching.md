@@ -120,7 +120,7 @@ Course demos are released as focused, student-facing notebooks that run in the b
 
 **PCA slides:** [Principal Component Analysis and Low-Rank Approximation](https://zhuoranyang.github.io/sds265-fall26/lectures/14-pca-low-rank.pdf).
 
-**Latent-variable notebooks:** [Gaussian mixtures and EM, step by step](https://colab.research.google.com/github/ZhuoranYang/sds265-fall26/blob/main/demos/16-latent-variables-em/gaussian-mixture-em.ipynb) · [EM beyond Gaussians: mixtures of regressions and of Bernoullis](https://colab.research.google.com/github/ZhuoranYang/sds265-fall26/blob/main/demos/16-latent-variables-em/em-beyond-gaussians.ipynb) · [From probabilistic PCA to the VAE on MNIST](https://colab.research.google.com/github/ZhuoranYang/sds265-fall26/blob/main/demos/17-autoencoders-vaes-vqvae/vae-mnist.ipynb).
+**Latent-variable notebooks:** [Gaussian mixtures and EM, step by step](https://colab.research.google.com/github/ZhuoranYang/sds265-fall26/blob/main/demos/16-latent-variables-em/gaussian-mixture-em.ipynb) · [EM beyond Gaussians: mixtures of regressions and of Bernoullis](https://colab.research.google.com/github/ZhuoranYang/sds265-fall26/blob/main/demos/16-latent-variables-em/em-beyond-gaussians.ipynb) · [From probabilistic PCA to the VAE on MNIST](https://colab.research.google.com/github/ZhuoranYang/sds265-fall26/blob/main/demos/17-autoencoders-vaes-vqvae/vae-mnist.ipynb) · [The KL weight and posterior collapse](https://colab.research.google.com/github/ZhuoranYang/sds265-fall26/blob/main/demos/17-autoencoders-vaes-vqvae/vae-beta-collapse.ipynb).
 
 #### S&DS 431/631: Optimization and Computation (Fall 2024, Fall 2023, Fall 2022)
 
